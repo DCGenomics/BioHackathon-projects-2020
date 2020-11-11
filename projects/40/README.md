@@ -1,5 +1,7 @@
 # Project 40: Creation of a cloud-native server instance that translates cancer graph variations into an OMOP compliant medical record format.
 
+# Please see https://github.com/collaborativebioinformatics/GrOMOP for current work, thanks!
+
 ## Abstract
 
 We will create a cloud-native server instance that generates cancer graph variations and translates them into an OMOP compliant medical record format. The tumor genome is a combination of somatic variants atop a germline background. Germline variants primarily inform discussions of cancer predisposition, such as the election of many BRCA1/2 mutation careers to undergo preventative surgery given their increased lifetime risk for cancer development. The germline plays a particularly important role in childhood cancers such as rhabdomyosarcoma (PTCH1/PTCH2 mutations). A tumor’s somatic ...
